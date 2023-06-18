@@ -39,7 +39,7 @@ The first thing we did was utilize the Azure Subscription to create a "Resource 
 <img src="https://i.imgur.com/iwpq53g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We then searched for the Wireshark application download within the Windows 10 Virtual Machine. Wireshark is a network protocol analyzer that has a multitude of uses through various aspects of Information Technology. For instance, when I was studying for the Cisco CCNA exam, we utilized Wireshark for various packet capture and analysis to gain a better understanding of the various packets and what is actually being sent within the packets. The Wireshark application has a vast amount of uses and we are just scratchingt the surface in this project to see the difference between some of the most commonly used packets in your day to day life as an Information Technology Professional. 
+We then searched for the Wireshark application download within the Windows 10 Virtual Machine. Wireshark is a network protocol analyzer that has a multitude of uses through various aspects of Information Technology. For instance, when I was studying for the Cisco CCNA exam, we utilized Wireshark for various packet capture and analysis to gain a better understanding of the various packets and what is actually being sent within the packets. The Wireshark application has a vast amount of uses and we are just scratching the surface in this project to see the difference between some of the most commonly used packets in your day to day life as an Information Technology Professional. 
 </p>
 <br />
 
